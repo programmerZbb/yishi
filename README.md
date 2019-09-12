@@ -3,7 +3,7 @@
 
 #### 介绍
 异视
- 
+
 #### 软件架构
 软件架构说明 
 vue-cli3.0
@@ -31,3 +31,6 @@ npm run build --env=development
 
 
 
+# 项目地址
+
+https://xjt9527.github.io/yishi/dist/#/first-page
